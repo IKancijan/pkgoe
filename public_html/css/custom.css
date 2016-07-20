@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 16, 2016, 11:49:20 AM
+    Author     : Ivan
+*/
+
+/*.navbar{
+    background: #7aff9f;  Old browsers 
+    background: -moz-linear-gradient(left,  #7aff9f 0%, #65a9ed 100%);  FF3.6-15 
+    background: -webkit-linear-gradient(left,  #7aff9f 0%,#65a9ed 100%);  Chrome10-25,Safari5.1-6 
+    background: linear-gradient(to right,  #7aff9f 0%,#65a9ed 100%);  W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7aff9f', endColorstr='#65a9ed',GradientType=1 );  IE6-9 
+}*/
+
+.logo{
+    width: 30%;
+}
+
+#about, #contact{
+    color: white;
+}
